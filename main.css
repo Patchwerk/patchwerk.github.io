@@ -29,9 +29,12 @@ h2 {
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
+.nav {
+	color: #ffffff;
+	
+}
 nav li {
 	display: inline;
-	color: 00000;
 }
 
 nav ul {
