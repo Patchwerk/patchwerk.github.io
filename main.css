@@ -29,6 +29,10 @@ h2 {
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
+nav ul {
+	display:inline;
+}
+
 
 p {
 	color: #ffffff;
