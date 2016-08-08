@@ -5,7 +5,7 @@ body {
 	text-align: center;
 	width: 100%;
 	color: #FFFFFF;
-	text-shadow: 0 5px #000000;
+	text-shadow: 0 2px #ff00b4;
 	background-color: #000000;
 }
 
@@ -42,7 +42,7 @@ p {
 }
 
 #footer {
-	color: DarkSlateGray;
+	color: #FFFFFF;
 	font-size: 16px;
 }
 
