@@ -22,7 +22,7 @@ h2 {
 	background-position: center;
 	background-size: cover;
 	padding: 0px 0;
-	margin: 0px 250px 0px 250px;
+	margin: 0px 250px 250px 250px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 	background-repeat: no-repeat;
@@ -48,7 +48,7 @@ p {
 	font-size: 16px;
 	text-shadow: 0 2px #ff0dbf;
 	min-width: 1420px;
-	position: absolute;
+	position: relative;
 }
 
 ul {
