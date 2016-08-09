@@ -20,7 +20,7 @@ h2 {
 .hero {
 	background-image: url('http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg');
 	background-position: center top;
-	background-size: contain;
+	background-size: cover;
 	padding: 250px 0;
 	margin: 30px;
 	text-shadow: 0 2px #000000;
