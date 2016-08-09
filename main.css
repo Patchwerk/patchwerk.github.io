@@ -7,6 +7,11 @@ body {
 	color: #FFFFFF;
 	text-shadow: 0 2px #ff00b4;
 	background-color: #000000;
+	background-image: url('http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg');
+	background-position: center top;
+	background-size: 100% 100%;
+	padding: 0px 0;
+	background-attachment: fixed;
 }
 
 h1 {
@@ -20,11 +25,7 @@ h2 {
 
 
 .hero {
-	background-image: url('http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg');
-	background-position: center top;
-	background-size: 100% 100%;
-	padding: 0px 0;
-	background-attachment: fixed;
+	
 	margin: 30px;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
