@@ -13,4 +13,7 @@ div.middlecont {
 	background-color: white;
 	padding: 25px;
 	background-image: url("http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
 }
