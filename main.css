@@ -18,10 +18,6 @@ h2 {
 	font-size: 56px; 
 }
 
-navbar {
-	color: #ffffff;
-	font-size: 56px; 
-}
 
 .hero {
 	background-image: url('http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg');
@@ -50,4 +46,9 @@ p {
 #footer {
 	color: #FFFFFF;
 	font-size: 16px;
+}
+
+/* visited link */
+a:visited {
+    color: white;
 }
