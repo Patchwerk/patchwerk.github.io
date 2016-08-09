@@ -33,21 +33,7 @@ navbar {
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
-.navbar {
-	color: #ffffff;
-	font-family: 'Trebuchet MS', 'Helvetica';
-	
-}
-nav li {
-	display: inline;
-	color: #FFFFFF;
-}
 
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
 
 
 p {
@@ -65,9 +51,3 @@ p {
 	color: #FFFFFF;
 	font-size: 16px;
 }
-
-#navbar {
-	color: #FFFFFF
-	font-family: 'Trebuchet MS', 'Helvetica';
-}
-
