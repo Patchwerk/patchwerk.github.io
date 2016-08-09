@@ -1,4 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
+	text-shadow:2px 2px pink;
+	color: white;
 }
