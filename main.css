@@ -8,3 +8,7 @@ body {
 header {
 	text-shadow:2px 2px pink;
 }
+
+div.middlecont {
+	background-color: white;
+}
