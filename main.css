@@ -43,7 +43,7 @@ p {
 	text-decoration: none;
 }
 
-#footer {
+.footer {
 	color: white;
 	font-size: 16px;
 	text-shadow: 0 2px #ff0dbf;
