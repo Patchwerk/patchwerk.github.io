@@ -28,6 +28,7 @@ h2 {
 	background-repeat: no-repeat;
 	min-width: 960px;
 	min-height: 480px;
+	position: absolute;
 }
 
 
