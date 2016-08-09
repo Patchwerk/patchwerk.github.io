@@ -11,7 +11,8 @@ body {
 	text-align: center;
 	color: white;
 	margin: 250px 150px 250px 150px;
-	background-image: url("http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg")
+	background-image: url("http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg");
+	background-repeat: no-repeat;
 }
 
 li {
