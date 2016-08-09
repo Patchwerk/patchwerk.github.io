@@ -2,7 +2,13 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	color: white;
-	background-color: black;
+	background-color: white;
+	padding: 25px;
+	background-image: url("http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 	
 }
 
@@ -11,13 +17,7 @@ header {
 }
 
 div.middlecont {
-	background-color: white;
-	padding: 25px;
-	background-image: url("http://mikeposnerhits.com/wp-content/uploads/2014/06/RiffRaff-NeonIcon-2014.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
+
 	height: 100%;
 	width: 100%;
 	
