@@ -85,4 +85,5 @@ li a:hover:not(.active) {
 #navbar {
 	margin-left: 250px;
 	margin-right: 250px;
+	min-width: 1420px;
 }
